@@ -1,2 +1,2 @@
 # Prediction-Using-Supervised-Machine-Learning
-The Sparks Foundation ---> Task 1 :  Need to find out the score of the student based on the study hours. 
+The Sparks Foundation ---> Task 1 :  Predict the percentage of an student based on the no. of study hours.
